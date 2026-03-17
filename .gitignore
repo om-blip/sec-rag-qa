@@ -1,6 +1,9 @@
-
 chroma_db/
-
 data/
-
-data/
+sec_rag_venv/
+__pycache__/
+*.pyc
+.env
+*.pdf
+*.sqlite3
+evaluation_results.csvgit rm -r --cached chroma_db/
