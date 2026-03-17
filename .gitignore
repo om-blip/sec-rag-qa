@@ -7,3 +7,4 @@ __pycache__/
 *.pdf
 *.sqlite3
 evaluation_results.csvgit rm -r --cached chroma_db/
+.env
